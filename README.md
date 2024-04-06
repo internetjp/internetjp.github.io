@@ -1,2 +1,2 @@
-# internetjp.github.io
+# internetjp
 The source of portfolio.
