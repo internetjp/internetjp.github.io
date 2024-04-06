@@ -1,2 +1,2 @@
 # internetjp.github.io
-Portfolio for node
+Portfolio for nodes
